@@ -1,0 +1,54 @@
+body {
+   font-family: 'UnifrakturCook';font-size: 22px;
+  background-color: black;
+}
+
+div {
+   background: linear-gradient(to bottom, #800000 0%, #660066 100%);
+}
+
+
+.titlename {
+  font-size: 100px;
+}
+
+	ul {
+		
+  list-style: square inside url("skull1.png") ;
+  
+}
+
+
+* {
+	text-align: center;
+}
+
+h1, p {
+	color: Cornsilk;
+}
+
+h2 {
+	color: black;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 10px;
+  border-color: CadetBlue;
+}
+
+h1, h2 {
+  
+  
+  text-shadow: 2px 2px 5px red;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
